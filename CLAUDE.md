@@ -1,4 +1,6 @@
 Project marrowmatrix
+## Connection Test
+Testing the live pipeline.
 Voice AI assistant for Indian users speaking Hinglish.
 Audio spec: 24kHz 16-bit mono PCM
 One audio chunk is 960 bytes which equals 20ms
