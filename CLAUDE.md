@@ -1,6 +1,9 @@
 Project marrowmatrix
 ## Connection Test
-Testing the live pipeline.
+Testing the live pipeline.git add .
+git commit -m "Testing my fresh connection with an edit"
+git push
+Testing my fresh connection with an edit.
 Voice AI assistant for Indian users speaking Hinglish.
 Audio spec: 24kHz 16-bit mono PCM
 One audio chunk is 960 bytes which equals 20ms
